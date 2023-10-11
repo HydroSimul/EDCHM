@@ -1,0 +1,810 @@
+[
+    {
+        "file": "E:/Kan_Lei/PACKAGE/EDCHM/inst/include/EDCHM.h",
+        "file_last_write": 1681069510.0,
+        "definitions": []
+    },
+    {
+        "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/00utilis.cpp",
+        "file_last_write": 1672696750.0,
+        "definitions": [
+            {
+                "usr": "c:@F@vecpow#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "vecpow(Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/00utilis.cpp",
+                "line": 3,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@vecpow10#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "vecpow10(Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/00utilis.cpp",
+                "line": 11,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@sum_product#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "sum_product(Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/00utilis.cpp",
+                "line": 18,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@resetVector#&$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "resetVector(Rcpp::NumericVector &)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/00utilis.cpp",
+                "line": 28,
+                "column": 6
+            }
+        ]
+    },
+    {
+        "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/00utilis.h",
+        "file_last_write": 1672696745.0,
+        "definitions": []
+    },
+    {
+        "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/EDCHM_GR4J.cpp",
+        "file_last_write": 1672706743.0,
+        "definitions": [
+            {
+                "usr": "c:@F@EDCHM_GR4J#I#I#$@N@Rcpp@S@Matrix>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S1_#S1_#S1_#S1_#S1_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "EDCHM_GR4J(int, int, Rcpp::NumericMatrix, Rcpp::NumericMatrix, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/EDCHM_GR4J.cpp",
+                "line": 14,
+                "column": 15
+            }
+        ]
+    },
+    {
+        "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/EDCHM_GR4J.h",
+        "file_last_write": 1672696808.0,
+        "definitions": []
+    },
+    {
+        "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/EDCHM_GR4J_full.cpp",
+        "file_last_write": 1672707781.0,
+        "definitions": [
+            {
+                "usr": "c:@F@EDCHM_GR4J_full#I#I#$@N@Rcpp@S@Matrix>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S1_#S1_#S1_#S1_#S1_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "EDCHM_GR4J_full(int, int, Rcpp::NumericMatrix, Rcpp::NumericMatrix, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/EDCHM_GR4J_full.cpp",
+                "line": 13,
+                "column": 6
+            }
+        ]
+    },
+    {
+        "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/EDCHM_mini.cpp",
+        "file_last_write": 1672696141.0,
+        "definitions": [
+            {
+                "usr": "c:@F@EDCHM_mini#I#I#$@N@Rcpp@S@Matrix>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "EDCHM_mini(int, int, Rcpp::NumericMatrix, Rcpp::NumericMatrix, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/EDCHM_mini.cpp",
+                "line": 28,
+                "column": 15
+            }
+        ]
+    },
+    {
+        "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/EDCHM_mini.h",
+        "file_last_write": 1670888441.0,
+        "definitions": []
+    },
+    {
+        "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/EDCHM_mini_full.cpp",
+        "file_last_write": 1672696072.0,
+        "definitions": [
+            {
+                "usr": "c:@F@EDCHM_mini_full#I#I#$@N@Rcpp@S@Matrix>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "EDCHM_mini_full(int, int, Rcpp::NumericMatrix, Rcpp::NumericMatrix, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/EDCHM_mini_full.cpp",
+                "line": 18,
+                "column": 6
+            }
+        ]
+    },
+    {
+        "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/EDCHM_snow.cpp",
+        "file_last_write": 1681069648.0,
+        "definitions": [
+            {
+                "usr": "c:@F@EDCHM_snow#I#I#$@N@Rcpp@S@Matrix>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "EDCHM_snow(int, int, Rcpp::NumericMatrix, Rcpp::NumericMatrix, Rcpp::NumericMatrix, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/EDCHM_snow.cpp",
+                "line": 11,
+                "column": 15
+            }
+        ]
+    },
+    {
+        "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/EDCHM_snow.h",
+        "file_last_write": 1681069611.0,
+        "definitions": []
+    },
+    {
+        "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/EDCHM_snow_full.cpp",
+        "file_last_write": 1681069629.0,
+        "definitions": [
+            {
+                "usr": "c:@F@EDCHM_snow_full#I#I#$@N@Rcpp@S@Matrix>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "EDCHM_snow_full(int, int, Rcpp::NumericMatrix, Rcpp::NumericMatrix, Rcpp::NumericMatrix, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/EDCHM_snow_full.cpp",
+                "line": 11,
+                "column": 6
+            }
+        ]
+    },
+    {
+        "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/atmos.cpp",
+        "file_last_write": 1670974320.0,
+        "definitions": [
+            {
+                "usr": "c:@F@atmosSnow_ThresholdT#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "atmosSnow_ThresholdT(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/atmos.cpp",
+                "line": 53,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@atmosSnow_UBC#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "atmosSnow_UBC(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/atmos.cpp",
+                "line": 78,
+                "column": 15
+            }
+        ]
+    },
+    {
+        "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/baseflow.cpp",
+        "file_last_write": 1670974225.0,
+        "definitions": [
+            {
+                "usr": "c:@F@baseflow_GR4J#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "baseflow_GR4J(Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/baseflow.cpp",
+                "line": 56,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@baseflow_GR4Jfix#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "baseflow_GR4Jfix(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/baseflow.cpp",
+                "line": 84,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@baseflow_SupplyRatio#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "baseflow_SupplyRatio(Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/baseflow.cpp",
+                "line": 111,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@baseflow_SupplyPow#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "baseflow_SupplyPow(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/baseflow.cpp",
+                "line": 137,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@baseflow_MaxPow#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "baseflow_MaxPow(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/baseflow.cpp",
+                "line": 165,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@baseflow_ThreshPow#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "baseflow_ThreshPow(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/baseflow.cpp",
+                "line": 196,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@baseflow_Arno#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "baseflow_Arno(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/baseflow.cpp",
+                "line": 233,
+                "column": 15
+            }
+        ]
+    },
+    {
+        "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/capirise.cpp",
+        "file_last_write": 1680119632.0,
+        "definitions": [
+            {
+                "usr": "c:@F@capirise_HBV#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "capirise_HBV(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/capirise.cpp",
+                "line": 59,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@capirise_HBVfix#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "capirise_HBVfix(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/capirise.cpp",
+                "line": 89,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@capirise_AcceptRatio#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "capirise_AcceptRatio(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/capirise.cpp",
+                "line": 120,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@capirise_AcceptPow#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "capirise_AcceptPow(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/capirise.cpp",
+                "line": 155,
+                "column": 15
+            }
+        ]
+    },
+    {
+        "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/confluen.cpp",
+        "file_last_write": 1670974817.0,
+        "definitions": [
+            {
+                "usr": "c:@F@confluen_IUH#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "confluen_IUH(Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/confluen.cpp",
+                "line": 44,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@confluen_IUH2S#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "confluen_IUH2S(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/confluen.cpp",
+                "line": 70,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@confluen_IUH3S#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "confluen_IUH3S(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/confluen.cpp",
+                "line": 95,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@confluenIUH_GR4J1#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "confluenIUH_GR4J1(double)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/confluen.cpp",
+                "line": 160,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@confluenIUH_GR4J2#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "confluenIUH_GR4J2(double)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/confluen.cpp",
+                "line": 191,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@confluenIUH_Kelly#d#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "confluenIUH_Kelly(double, double)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/confluen.cpp",
+                "line": 228,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@confluenIUH_Nash#d#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "confluenIUH_Nash(double, double)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/confluen.cpp",
+                "line": 268,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@confluenIUH_Clark#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "confluenIUH_Clark(double)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/confluen.cpp",
+                "line": 296,
+                "column": 15
+            }
+        ]
+    },
+    {
+        "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/evatrans.cpp",
+        "file_last_write": 1681069964.0,
+        "definitions": [
+            {
+                "usr": "c:@F@evatransPotential_TurcWendling#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "evatransPotential_TurcWendling(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/evatrans.cpp",
+                "line": 34,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@evatransPotential_Linacre#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "evatransPotential_Linacre(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/evatrans.cpp",
+                "line": 56,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@evatransPotential_FAO56#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "evatransPotential_FAO56(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/evatrans.cpp",
+                "line": 82,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@evatransActual_SupplyRatio#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "evatransActual_SupplyRatio(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/evatrans.cpp",
+                "line": 185,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@evatransActual_SupplyPow#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "evatransActual_SupplyPow(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/evatrans.cpp",
+                "line": 216,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@evatransActual_VIC#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "evatransActual_VIC(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/evatrans.cpp",
+                "line": 247,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@evatransActual_GR4J#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "evatransActual_GR4J(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/evatrans.cpp",
+                "line": 277,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@evatransActual_UBC#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "evatransActual_UBC(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/evatrans.cpp",
+                "line": 306,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@evatransActual_LiangLand#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "evatransActual_LiangLand(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/evatrans.cpp",
+                "line": 342,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@evatransActual_LiangSoil#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "evatransActual_LiangSoil(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/evatrans.cpp",
+                "line": 378,
+                "column": 15
+            }
+        ]
+    },
+    {
+        "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/infilt.cpp",
+        "file_last_write": 1670971919.0,
+        "definitions": [
+            {
+                "usr": "c:@F@infilt_GR4J#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "infilt_GR4J(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/infilt.cpp",
+                "line": 54,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@infilt_UBC#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "infilt_UBC(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/infilt.cpp",
+                "line": 87,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@infilt_SupplyRatio#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "infilt_SupplyRatio(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/infilt.cpp",
+                "line": 121,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@infilt_AcceptRatio#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "infilt_AcceptRatio(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/infilt.cpp",
+                "line": 151,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@infilt_SupplyPow#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "infilt_SupplyPow(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/infilt.cpp",
+                "line": 185,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@infilt_AcceptPow#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "infilt_AcceptPow(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/infilt.cpp",
+                "line": 220,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@infilt_HBV#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "infilt_HBV(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/infilt.cpp",
+                "line": 252,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@infilt_XAJ#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "infilt_XAJ(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/infilt.cpp",
+                "line": 291,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@infilt_VIC#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "infilt_VIC(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/infilt.cpp",
+                "line": 335,
+                "column": 15
+            }
+        ]
+    },
+    {
+        "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/inteflow.cpp",
+        "file_last_write": 1672187508.0,
+        "definitions": [
+            {
+                "usr": "c:@F@inteflow_GR4Jfix#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "inteflow_GR4Jfix(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/inteflow.cpp",
+                "line": 56,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@inteflow_MaxPow#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "inteflow_MaxPow(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/inteflow.cpp",
+                "line": 81,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@inteflow_ThreshPow#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "inteflow_ThreshPow(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/inteflow.cpp",
+                "line": 112,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@inteflow_Arno#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "inteflow_Arno(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/inteflow.cpp",
+                "line": 148,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@inteflow_BevenWood#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "inteflow_BevenWood(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/inteflow.cpp",
+                "line": 181,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@inteflow_SupplyPow0#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "inteflow_SupplyPow0(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/inteflow.cpp",
+                "line": 214,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@inteflow_SupplyPow#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "inteflow_SupplyPow(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/inteflow.cpp",
+                "line": 243,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@inteflow_SupplyRatio#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "inteflow_SupplyRatio(Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/inteflow.cpp",
+                "line": 270,
+                "column": 15
+            }
+        ]
+    },
+    {
+        "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/intercep.cpp",
+        "file_last_write": 1670975306.0,
+        "definitions": [
+            {
+                "usr": "c:@F@intercep_Full#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "intercep_Full(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/intercep.cpp",
+                "line": 34,
+                "column": 15
+            }
+        ]
+    },
+    {
+        "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/lateral.cpp",
+        "file_last_write": 1672240439.0,
+        "definitions": [
+            {
+                "usr": "c:@F@lateral_SupplyPow#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "lateral_SupplyPow(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/lateral.cpp",
+                "line": 57,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@lateral_SupplyRatio#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "lateral_SupplyRatio(Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/lateral.cpp",
+                "line": 86,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@lateral_GR4J#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "lateral_GR4J(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/lateral.cpp",
+                "line": 108,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@lateral_GR4Jfix#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "lateral_GR4Jfix(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/lateral.cpp",
+                "line": 136,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@lateral_ThreshPow#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "lateral_ThreshPow(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/lateral.cpp",
+                "line": 168,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@lateral_Arno#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "lateral_Arno(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/lateral.cpp",
+                "line": 206,
+                "column": 15
+            }
+        ]
+    },
+    {
+        "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/percola.cpp",
+        "file_last_write": 1672187502.0,
+        "definitions": [
+            {
+                "usr": "c:@F@percola_GR4J#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "percola_GR4J(Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/percola.cpp",
+                "line": 55,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@percola_GR4Jfix#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "percola_GR4Jfix(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/percola.cpp",
+                "line": 76,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@percola_MaxPow#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "percola_MaxPow(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/percola.cpp",
+                "line": 100,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@percola_ThreshPow#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "percola_ThreshPow(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/percola.cpp",
+                "line": 131,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@percola_Arno#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "percola_Arno(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/percola.cpp",
+                "line": 167,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@percola_BevenWood#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "percola_BevenWood(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/percola.cpp",
+                "line": 200,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@percola_SupplyPow#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "percola_SupplyPow(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/percola.cpp",
+                "line": 235,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@percola_SupplyRatio#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "percola_SupplyRatio(Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/percola.cpp",
+                "line": 262,
+                "column": 15
+            }
+        ]
+    },
+    {
+        "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/snow.cpp",
+        "file_last_write": 1681069687.0,
+        "definitions": [
+            {
+                "usr": "c:@F@snowMelt_Kustas#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "snowMelt_Kustas(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/snow.cpp",
+                "line": 62,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@snowMelt_Factor#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "snowMelt_Factor(Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "file": "E:/Kan_Lei/PACKAGE/EDCHM/src/snow.cpp",
+                "line": 92,
+                "column": 15
+            }
+        ]
+    }
+]

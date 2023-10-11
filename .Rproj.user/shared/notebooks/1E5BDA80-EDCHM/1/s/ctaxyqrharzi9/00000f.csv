@@ -1,0 +1,5 @@
+"0","## build"
+"0","my_Model <- build_modell(my_process_method, ""TestModel"")"
+"2","Error in str_detect(lines_process_select, ""ground_capacity_mm"") : 
+  could not find function ""str_detect""
+"
